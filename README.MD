@@ -11,5 +11,7 @@
 <p>w-100 kullanarak resimleri eşitledim.</p>
 <p>Ufak oynamalar yaparak yerlerini padding, margin, position kullanarak değiştirdim.</p>
 <p>Fiyat kısmını buton olarak ekledim ve projeyi bitirdim.</p>
-<img src="https://www.hizliresim.com/p84x0mh" >
+<img src="https://www.hizliresim.com/p84x0mh">
+![alt text](https://www.hizliresim.com/p84x0mh)
+
 
