@@ -1,0 +1,42 @@
+.menü ul {   
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+.menü li {
+    
+    float: left;
+    padding: 10px;
+    padding-left: 15px;
+    list-style-type:none;
+    
+}
+
+.menü li a {
+    color:rgb(214, 214, 214);
+}
+
+.menü li a:hover {
+    background-color: rgb(35, 41, 65);
+    
+}
+
+.menü a:link {
+    text-decoration:none;
+}
+
+img{
+
+    height: 300px;
+
+    width: 200px;
+
+    border: 2px solid #CCCCCC;
+
+    background-color: #FFFFFF;
+
+    padding: 1px;
+
+}
